@@ -1,0 +1,188 @@
+    1  /cita/local/bin/passwd
+    2  ssh prawn
+    3  ls
+    4  /fs/lustre/scratch/joelyma
+    5  cd /fs/lustre/scratch/joelyma
+    6  ls
+    7  ssh cosmo3.cita.utoronto.ca
+    8  ls
+    9  cd /fs/lustre/scratch/joelyma
+   10  mkdir CTA200_2025
+   11  ls
+   12  cd CTA200_2025/
+   13  ls
+   14  mkdir assignment_1
+   15  ls
+   16  vim README.md
+   17  vim README.md 
+   18  cd /fs/lustre/scratch/murray
+   19  ls
+   20  find Hello_world.c
+   21  cd fs/lustre/scratch/joelyma
+   22  ls
+   23  ../
+   24  cd -
+   25  cd /fs/lustre/scratch/murray
+   26  find 
+   27  ls - 
+   28  ls -;
+   29  ls -l
+   30  find Hello_world.c
+   31  cd murray
+   32  ls
+   33  cd bin
+   34  ls
+   35  cd -
+   36  cd repos
+   37  ls
+   38  cd -
+   39  cd scratch-2month
+   40  ls
+   41  cd - 
+   42  cd scratch-3month
+   43  ls
+   44  cd - 
+   45  cd murray
+   46  ls
+   47  find ~ -name "Hello_world.c"
+   48  cd /fs/lustre/scratch/joelyma
+   49  ls
+   50  cd /fs/lustre/scratch/murray
+   51  ls
+   52  ls -
+   53  ls -l
+   54  find -name "Hello_world.c"
+   55  find -name "Hello_world.py"
+   56  cd bin
+   57  ls
+   58  cd -
+   59  cd Pictures
+   60  ls
+   61  cd - 
+   62  cd repos
+   63  ls
+   64  cd - 
+   65  cd src
+   66  ls
+   67  cd - 
+   68  cd test
+   69  ls
+   70  cd - 
+   71  cd tmp
+   72  ls
+   73  cd test
+   74  ls
+   75  cd - 
+   76  cd ..?
+   77  cd ../
+   78  ls
+   79  cd ../
+   80  ls
+   81  find -name "Hello_world.c"
+   82  cd /fs/lustre/scratch/joelyma
+   83  ls
+   84  cd /fs/lustre/scratch/murray
+   85  ls
+   86  find Hello_world.c
+   87  cd ~
+   88  ls
+   89  find Hello_world.c
+   90  pwd
+   91  cd /fs/lustre/scratch/murray
+   92  ls
+   93  cd tmp/
+   94  ls
+   95  cd ..
+   96  cd /home/murray
+   97  ls
+   98  find Hello_world.c
+   99  find "Hello_world.c"
+  100  find -name 
+  101  find -name "Hello_world.c"
+  102  ls 
+  103  find -name "Hello*"
+  104  find -name "Hello*" -print
+  105  cd ./Papers/tmp/Hello_world.c
+  106  cd /Papers/tmp
+  107  cd tmp
+  108  ls
+  109  cp Hello_world.py
+  110  cp Hello_world.py /fs/lustre/scratch/joelyma
+  111  pwd
+  112  ls
+  113  cd ../
+  114  pwd
+  115  ls
+  116  cd Papers
+  117  ls
+  118  cd -
+  119  pwd
+  120  ls
+  121  cd Papers
+  122  ls
+  123  find -name "Hello_world.c"
+  124  cd tmp
+  125  ls
+  126  cp Hello_world.c /fs/lustre/scratch/joelyma
+  127  cd /fs/lustre/scratch/joelyma
+  128  ls
+  129  cp Hello_world.c Hello_world.py CTA200_2025
+  130  cd CTA200_2025/
+  131  ls
+  132  cp Hello_world.c  Hello_world.py assignment_1
+  133  cd assignment_1
+  134  ls
+  135  mv Hello_world.c Hello_world.joelyma.c
+  136  ls
+  137  mv Hello_world.py Hello_world.joelyma_py
+  138  ls
+  139  gcc Hello_world.joelyma.c
+  140  ls
+  141  cd a.out
+  142  ls
+  143  mv a.out Hello_world.x
+  144  ls
+  145  Hello_world.joelyma_x
+  146  Hello_world.x
+  147  ./Hello_world.x 
+  148  mv Hello_world.joelyma_py Hello_world.joelyma.py
+  149  ls
+  150  ./Hello_world.joelyma.py
+  151  Hello_world.joelyma.pu
+  152  Hello_world.joelyma.py
+  153  mv Hello_world.joelyma.py Hello_world.ma.py
+  154  mv Hello_world.joelyma.c Hello_world.ma.c
+  155  ./Hello_world.ma.py 
+  156  python Hello_world.ma.py 
+  157  module load python 
+  158  python Hello_world.ma.py 
+  159  module purge
+  160  module load python/3.10.2
+  161  module avail
+  162  module avail python
+  163  python Hello_world.ma.py 
+  164  vi Hello_world.ma.py
+  165  vi Hello_world.ma.c
+  166  python Hello_world.ma.py 
+  167  ./Hello_world.c
+  168  ./Hello_world.x 
+  169  ./Hello_world.c
+  170  ./Hello_world.ma.c
+  171  module avail
+  172  gcc Hello_world.ma.c
+  173  ls
+  174  mv a.out Hello_world_updated.x
+  175  ls
+  176  ./Hello_world_updated.x 
+  177  vim output_python.txt
+  178  ls
+  179  ./Hello_world_updated.x > output_c.txt
+  180  ls
+  181  vi output_c.txt 
+  182  ./Hello_world.ma.py > output_python.txt
+  183  ls
+  184  vi output_python.txt 
+  185  python Hello_world.ma.py > output_python.txt
+  186  vim output_python.txt 
+  187  history 
+  188  history > history.txt
